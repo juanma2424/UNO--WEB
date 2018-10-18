@@ -1,0 +1,36 @@
+.etiq{
+	position: relative;
+	left:560px;
+	right: ;
+	bottom: ;
+	top: 250px ;
+}
+
+.boton{
+	position: relative;
+	left:620px;
+	right: ;
+	bottom: ;
+	top: 350px ;
+}
+
+.log{
+	position: relative;
+	left:560px;
+	right: ;
+	bottom: ;
+	top: 330px ;
+}
+label{
+	font-size: 25px;
+	display: block;
+	width: 100%;
+}
+input[type="submit"]{
+	background:#1668C4;
+	color: #fff;
+	border: none;
+}
+body{
+	background:url(../Imagenes/uno.png); 
+}

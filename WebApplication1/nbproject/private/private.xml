@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/redirect.jsp</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/src/java/Controllers/HomeController.java</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/jsp/error.jsp</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/resource/css/styleLogin.css</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/resource/css/stylePanelGame.css</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/jsp/PanelGame.jsp</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/src/java/Controllers/ErrorController.java</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/resource/Imagenes/image.png</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/src/java/Controllers/IndexController.java</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/jsp/home.jsp</file>
+            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,10 @@
+body{
+	background:url(../Imagenes/mmesa.png); 
+}
+.players{
+	position: relative;
+	left:1150px;
+	right: ;
+	bottom: ;
+	top: 50px ;
+}

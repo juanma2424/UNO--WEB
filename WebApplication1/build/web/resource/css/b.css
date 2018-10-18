@@ -1,0 +1,20 @@
+div{
+	background-image: url(../Imagenes/log_uno.png);
+	width: 313px;
+	height: 313px;
+	border-radius: 50%;
+
+	position: relative;
+	left:520px;
+	right: ;
+	bottom: ;
+	top: 150px ;
+	
+}
+
+
+body{
+	background:url(../Imagenes/uno.png); 
+	width: 100%;
+	height: 100%;
+}
